@@ -1,8 +1,8 @@
 # QOSF_Task_3
 
-## Please view QOSF_Task_3.pdf
+## Please view QOSF_Task_3.pdf!
 
-## Description:
+# Task Description:
 Please write a simple compiler – program, which translates one quantum circuit into another, using a restricted set of gates.
 
 You need to consider just the basic gates for the input circuit, such as (I, H, X, Y, Z, RX, RY, RZ, CNOT, CZ).
