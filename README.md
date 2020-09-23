@@ -1,6 +1,6 @@
 # QOSF_Task_3
 
-## Please view QOSF_Task_3.pdf!
+## Please download QOSF_Task_3.pdf for better visualizations! (Both .ipynb and .pdf have rendering issues opening on Github)
 
 # Task Description:
 Please write a simple compiler – program, which translates one quantum circuit into another, using a restricted set of gates.
